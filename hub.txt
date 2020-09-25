@@ -1,0 +1,5 @@
+hub ciRNA_hg38_anno_hub
+shortLabel ciRNA_hg38	
+longLabel Junction annotations for hg38 used in CIRCexplorer2
+genomesFile genomes.txt
+email astamr@clin.au.dk
