@@ -6,3 +6,10 @@ type bigBed 6
 visibility dense
 color 70,130,180
 
+track ciRNA_hg38_anno2
+bigDataUrl hg38_anno2.bb
+shortLabel ciRNA_hg38_2
+longLabel Junction annotations for hg38 used in CIRCexplorer2 
+type bigBed 6
+visibility dense
+color 25,25,112
